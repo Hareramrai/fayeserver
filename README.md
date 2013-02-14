@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Heroku + private_pub ##
 
 ### Background ###
@@ -78,3 +79,7 @@ If that's correct but you're still seeing problems, then check out the log to se
 ```
 ~/projects/mypubserver> heroku logs --tail
 ```
+=======
+fayeserver
+==========
+>>>>>>> a9f8b30fa36e75f77ac9184705fea7b593a4835e
