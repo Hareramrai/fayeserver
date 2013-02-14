@@ -1,0 +1,10 @@
+# Development and Test environment configurations are listed here
+# for convenience but generally shouldn't be used.
+# 
+# Replace YOUR_APP with the heroku app name and YOUR_TOKEN with the
+# same token used in private_pub.yml of your rails project.
+
+production:
+  server: "http://fayeserver.herokuapp.com/faye"
+  secret_token: "batkaro"
+  signature_expiration: 86400 # one day
