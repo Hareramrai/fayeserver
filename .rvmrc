@@ -1,1 +1,1 @@
-rvm gemset use fayeserver --create
+rvm gemset use fayeserver 
